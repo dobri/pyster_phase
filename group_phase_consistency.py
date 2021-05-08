@@ -1,5 +1,5 @@
 """
-Python implementation of the Frank & Richardson (2010) method for group phase
+Python implementation of the Frank & Richardson (2010) method for group phase 
 synchronization. They called it cluster phase, but it's better to call it 
 group phase consistency, multivariate phase consistency, etc.. There's no 
 clustering involved; this is confusing. You simply zero-center each 
